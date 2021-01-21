@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Medicne Bottle](mockup-of-a-plastic-pill-bottle-featuring-a-few-pills-4048-el1.png) and ![Image](mockup-of-a-plastic-pill-bottle-featuring-a-few-pills-4048-el1.png)
+![Image](mockup-of-a-plastic-pill-bottle-featuring-a-few-pills-4048-el1.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
